@@ -38,3 +38,35 @@ https://downloads.cm.thycotic.com/Thycotic.ConnectionManager.WindowsInstaller.ms
 ![image](https://github.com/joetanx/delinea-secret-server/assets/90442032/ca5e4868-ab5c-48eb-a4ff-4ddb0b35c4fc)
 
 ![image](https://github.com/joetanx/delinea-secret-server/assets/90442032/acf2ee3a-7b63-47b8-8ce4-1629d16880e1)
+
+## Login
+
+![image](https://github.com/joetanx/delinea-secret-server/assets/90442032/2dbb639b-dd2d-4ab8-b04a-7c6ac79309fb)
+
+## Administration
+
+![image](https://github.com/joetanx/delinea-secret-server/assets/90442032/e557a56a-4f0c-40e0-931d-2b7be227d3a0)
+
+## License activation
+
+![image](https://github.com/joetanx/delinea-secret-server/assets/90442032/e3607d5d-1a19-45af-8a4d-abcada0d877a)
+
+![image](https://github.com/joetanx/delinea-secret-server/assets/90442032/3c1a95a6-dd8f-4c9f-a4d9-882679573314)
+
+![image](https://github.com/joetanx/delinea-secret-server/assets/90442032/6522db62-21d6-4fc9-ab92-4f85290061f1)
+
+![image](https://github.com/joetanx/delinea-secret-server/assets/90442032/b33e0ec3-0683-424a-9ecf-f657299116fb)
+
+Limited mode without activation:
+
+![image](https://github.com/joetanx/delinea-secret-server/assets/90442032/e1741ccf-daf2-4498-81db-8fdbcf378d9e)
+
+Offline activation:
+
+![image](https://github.com/joetanx/delinea-secret-server/assets/90442032/2567b3c3-f640-4f55-b6d7-ea909d4782bf)
+
+Online activation:
+
+![image](https://github.com/joetanx/delinea-secret-server/assets/90442032/f8142aeb-5dfc-484a-831a-4819a746a8fd)
+
+![image](https://github.com/joetanx/delinea-secret-server/assets/90442032/25801784-3cc4-48bc-86dd-fd5fab9b947c)
