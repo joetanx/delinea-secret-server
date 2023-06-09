@@ -5,20 +5,6 @@ https://www.youtube.com/watch?v=UUtyqp1PGhM
 https://updates.thycotic.net/SecretServer/setup.exe
 https://downloads.cm.thycotic.com/Thycotic.ConnectionManager.WindowsInstaller.msi
 
-```
-[Evaluation] Secret Server Installed - Software - Platinum
-License Name: For Evaluation Use Only
-License Key: T9US9-TBNND-OJW9D-CTXMD-2I014
-
-[Evaluation] Secret Server Installed - Support - 1 month
-License Name: For Evaluation Use Only
-License Key: 9F8LT-8Y5MG-3OG9Q-QBWCN-051M2
-
-[Evaluation] Secret Server Installed - User Licenses - 10 Users
-License Name: For Evaluation Use Only
-License Key: O9K8E-B3M3T-8ZCBR-K9GST-BK8P0
-```
-
 ## Installation
 
 ![image](https://github.com/joetanx/delinea-secret-server/assets/90442032/8bf06ff9-0e92-4941-9f18-83b46740ea1c)
