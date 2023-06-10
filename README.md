@@ -70,3 +70,105 @@ Online activation:
 ![image](https://github.com/joetanx/delinea-secret-server/assets/90442032/f8142aeb-5dfc-484a-831a-4819a746a8fd)
 
 ![image](https://github.com/joetanx/delinea-secret-server/assets/90442032/25801784-3cc4-48bc-86dd-fd5fab9b947c)
+
+## Remote password change
+
+### Admin configuration
+
+![image](https://github.com/joetanx/delinea-secret-server/assets/90442032/ff58d1b2-f568-4961-a91b-f20f362c0e7f)
+
+![image](https://github.com/joetanx/delinea-secret-server/assets/90442032/f8b107fb-0af1-44bd-b7d6-7e0d7a8e4578)
+
+![image](https://github.com/joetanx/delinea-secret-server/assets/90442032/f35571c4-177f-4f48-8815-df5bb31887aa)
+
+### Secret template configuration
+
+![image](https://github.com/joetanx/delinea-secret-server/assets/90442032/55b8152c-bd8e-49aa-8280-4a7af6832cee)
+
+![image](https://github.com/joetanx/delinea-secret-server/assets/90442032/0d9f9b25-d47a-419e-94a6-4bf525f4ec3a)
+
+### Enable autochange on secret
+
+![image](https://github.com/joetanx/delinea-secret-server/assets/90442032/921f21c4-7e50-428f-b9e2-20dc9658304e)
+
+### Expiration and heartbeat
+
+![image](https://github.com/joetanx/delinea-secret-server/assets/90442032/95350305-19b2-4e62-89ad-a37379711844)
+
+### Heartbeat
+
+> gif to be uploaded
+
+### Password change
+
+> gif to be uploaded
+
+## Session recording
+
+### Admin configuration
+
+![image](https://github.com/joetanx/delinea-secret-server/assets/90442032/7f547cae-35ad-4f60-8c8b-9b907713e1d4)
+
+![image](https://github.com/joetanx/delinea-secret-server/assets/90442032/9c2dcf45-75ef-4769-aa74-9417c71e908f)
+
+### Secret configuration
+
+![image](https://github.com/joetanx/delinea-secret-server/assets/90442032/7e0684bd-6b43-48f6-9e61-76eb39a0a086)
+
+![image](https://github.com/joetanx/delinea-secret-server/assets/90442032/5a3c14a6-9c98-4be9-8b99-1245c2997f55)
+
+## Launching session
+
+Protocol handler not installed:
+
+![image](https://github.com/joetanx/delinea-secret-server/assets/90442032/0f136d83-e619-49c8-b936-47da10480fb4)
+
+Recording notice:
+
+![image](https://github.com/joetanx/delinea-secret-server/assets/90442032/6a4569eb-5aaf-4da6-b976-e1fe4e49a9c9)
+
+Minimized session notice:
+
+![image](https://github.com/joetanx/delinea-secret-server/assets/90442032/388acf0c-7d71-493a-986b-0d3df1029d69)
+
+### Terminating session
+
+![image](https://github.com/joetanx/delinea-secret-server/assets/90442032/d5784718-75d9-43fc-904e-beb2be32b809)
+
+![image](https://github.com/joetanx/delinea-secret-server/assets/90442032/de268dd9-f976-4e15-b307-f118c74afeae)
+
+![image](https://github.com/joetanx/delinea-secret-server/assets/90442032/996dfd90-25df-4747-9e75-51e998c2c695)
+
+## View session recording
+
+From adminisration:
+
+![image](https://github.com/joetanx/delinea-secret-server/assets/90442032/adbd53a0-8292-4608-b807-efee93f5df16)
+
+![image](https://github.com/joetanx/delinea-secret-server/assets/90442032/54b7e843-06be-4ab0-ba7e-dcff9c012695)
+
+From secret:
+
+![image](https://github.com/joetanx/delinea-secret-server/assets/90442032/e339d131-99f5-4df8-9af7-8189d9081889)
+
+Session playback:
+
+> gif to be uploaded
+
+## Other integrations
+
+### Privilege behavior Analytics
+
+![image](https://github.com/joetanx/delinea-secret-server/assets/90442032/52faf2a5-2f35-416c-9bee-5b3aa05990a4)
+
+![image](https://github.com/joetanx/delinea-secret-server/assets/90442032/f8e44fa6-40a6-4d33-94b8-d68ab21204fa)
+
+![image](https://github.com/joetanx/delinea-secret-server/assets/90442032/bda4656b-0130-4784-934d-1c4d077e218d)
+
+### DevOps Secrets Vault
+
+![image](https://github.com/joetanx/delinea-secret-server/assets/90442032/c26f99fb-4234-460d-8a4d-28d0d6f77a11)
+
+![image](https://github.com/joetanx/delinea-secret-server/assets/90442032/8503002e-0799-4083-833b-50f337d034e1)
+
+![image](https://github.com/joetanx/delinea-secret-server/assets/90442032/70211572-d294-4ff7-9aba-e07c4e1bc556)
