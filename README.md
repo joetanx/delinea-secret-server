@@ -95,13 +95,13 @@ Online activation:
 
 ![image](https://github.com/joetanx/delinea-secret-server/assets/90442032/95350305-19b2-4e62-89ad-a37379711844)
 
-### Heartbeat
+### Create secret
 
-> gif to be uploaded
+![create-secret](https://github.com/joetanx/delinea-secret-server/assets/90442032/6f0f4842-cac6-4afa-8975-159ff4fdf923)
 
-### Password change
+### Change password
 
-> gif to be uploaded
+![change-password](https://github.com/joetanx/delinea-secret-server/assets/90442032/6934e9ff-411e-4e9f-9ca3-c066c75767d4)
 
 ## Session recording
 
@@ -139,9 +139,11 @@ Minimized session notice:
 
 ![image](https://github.com/joetanx/delinea-secret-server/assets/90442032/996dfd90-25df-4747-9e75-51e998c2c695)
 
+![sesssion-terminate](https://github.com/joetanx/delinea-secret-server/assets/90442032/88cb21a3-da23-415e-86d7-d8232e75887d)
+
 ## View session recording
 
-From adminisration:
+From administration:
 
 ![image](https://github.com/joetanx/delinea-secret-server/assets/90442032/adbd53a0-8292-4608-b807-efee93f5df16)
 
@@ -153,7 +155,7 @@ From secret:
 
 Session playback:
 
-> gif to be uploaded
+![session-playback](https://github.com/joetanx/delinea-secret-server/assets/90442032/eab8117c-05db-4ff3-af2e-f5e63a1e82d2)
 
 ## Other integrations
 
