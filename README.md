@@ -109,7 +109,9 @@ Online activation:
 
 ![image](https://github.com/joetanx/delinea-secret-server/assets/90442032/7f547cae-35ad-4f60-8c8b-9b907713e1d4)
 
-![image](https://github.com/joetanx/delinea-secret-server/assets/90442032/9c2dcf45-75ef-4769-aa74-9417c71e908f)
+![image](https://github.com/joetanx/delinea-secret-server/assets/90442032/33ae7759-e6a5-4339-a561-acfa48fdac61)
+
+![image](https://github.com/joetanx/delinea-secret-server/assets/90442032/e502ff70-ae39-4e7f-bed6-bc75af87b001)
 
 ### 4.2. Secret configuration
 
