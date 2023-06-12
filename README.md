@@ -35,17 +35,17 @@ https://downloads.cm.thycotic.com/Thycotic.ConnectionManager.WindowsInstaller.ms
 
 ![image](https://github.com/joetanx/delinea-secret-server/assets/90442032/acf2ee3a-7b63-47b8-8ce4-1629d16880e1)
 
-### 1.1. Login
+</details>
+
+## 2. Login
 
 ![image](https://github.com/joetanx/delinea-secret-server/assets/90442032/2dbb639b-dd2d-4ab8-b04a-7c6ac79309fb)
 
-### 1.2. Administration
+### 2.1. Administration
 
-![image](https://github.com/joetanx/delinea-secret-server/assets/90442032/e557a56a-4f0c-40e0-931d-2b7be227d3a0)
+![image](https://github.com/joetanx/delinea-secret-server/assets/90442032/2c69f682-b7a6-4605-9261-2ec0e6874ac9)
 
-</details>
-
-<details><summary><h2>2. License activation</h2></summary>
+<details><summary><h3>2.2. License activation</h3></summary>
 
 ![image](https://github.com/joetanx/delinea-secret-server/assets/90442032/e3607d5d-1a19-45af-8a4d-abcada0d877a)
 
@@ -73,9 +73,9 @@ Online activation:
 
 ## 3. Remote password change
 
-### 3.1. Admin configuration
+### 3.1. Remote password change configuration
 
-![image](https://github.com/joetanx/delinea-secret-server/assets/90442032/ff58d1b2-f568-4961-a91b-f20f362c0e7f)
+`Administration` → `Actions` → `Remote Password Changing`
 
 ![image](https://github.com/joetanx/delinea-secret-server/assets/90442032/f8b107fb-0af1-44bd-b7d6-7e0d7a8e4578)
 
@@ -83,7 +83,7 @@ Online activation:
 
 ### 3.2. Secret template configuration
 
-![image](https://github.com/joetanx/delinea-secret-server/assets/90442032/55b8152c-bd8e-49aa-8280-4a7af6832cee)
+`Administration` → `Actions` → `Secret Templates`
 
 ![image](https://github.com/joetanx/delinea-secret-server/assets/90442032/0d9f9b25-d47a-419e-94a6-4bf525f4ec3a)
 
@@ -105,9 +105,9 @@ Online activation:
 
 ## 4. Session recording
 
-### 4.1. Admin configuration
+### 4.1. Session recording configuration
 
-![image](https://github.com/joetanx/delinea-secret-server/assets/90442032/7f547cae-35ad-4f60-8c8b-9b907713e1d4)
+`Administration` → `Actions` → `Configuration`
 
 ![image](https://github.com/joetanx/delinea-secret-server/assets/90442032/33ae7759-e6a5-4339-a561-acfa48fdac61)
 
@@ -119,7 +119,15 @@ Online activation:
 
 ![image](https://github.com/joetanx/delinea-secret-server/assets/90442032/5a3c14a6-9c98-4be9-8b99-1245c2997f55)
 
-### 4.3. Launching session
+### 4.3. Launcher configuration
+
+`Administration` → `Actions` → `Configuration`
+
+![image](https://github.com/joetanx/delinea-secret-server/assets/90442032/45f0adcb-d464-4027-889b-691530557c04)
+
+![image](https://github.com/joetanx/delinea-secret-server/assets/90442032/7e10f316-f74c-4597-89c3-bbe42a22ed82)
+
+### 4.4. Launching session
 
 Protocol handler not installed:
 
@@ -133,7 +141,7 @@ Minimized session notice:
 
 ![image](https://github.com/joetanx/delinea-secret-server/assets/90442032/388acf0c-7d71-493a-986b-0d3df1029d69)
 
-### 4.4. Terminating session
+### 4.5. Terminating session
 
 ![image](https://github.com/joetanx/delinea-secret-server/assets/90442032/d5784718-75d9-43fc-904e-beb2be32b809)
 
@@ -143,11 +151,11 @@ Minimized session notice:
 
 ![sesssion-terminate](https://github.com/joetanx/delinea-secret-server/assets/90442032/88cb21a3-da23-415e-86d7-d8232e75887d)
 
-### 4.5. View session recording
+### 4.6. View session recording
 
 From administration:
 
-![image](https://github.com/joetanx/delinea-secret-server/assets/90442032/adbd53a0-8292-4608-b807-efee93f5df16)
+`Administration` → `Actions` → `Session Monitoring`
 
 ![image](https://github.com/joetanx/delinea-secret-server/assets/90442032/54b7e843-06be-4ab0-ba7e-dcff9c012695)
 
@@ -163,7 +171,7 @@ Session playback:
 
 ### 5.1. Configure secret policy
 
-![image](https://github.com/joetanx/delinea-secret-server/assets/90442032/98a10a9b-2cd0-49e2-a729-40e2a7b3f103)
+`Administration` → `Actions` → `Secret Policies`
 
 ![image](https://github.com/joetanx/delinea-secret-server/assets/90442032/f38b366d-8bd3-4451-8a0c-077f5ec7937e)
 
@@ -189,7 +197,7 @@ Session playback:
 
 ### 6.1. Privilege behavior Analytics
 
-![image](https://github.com/joetanx/delinea-secret-server/assets/90442032/52faf2a5-2f35-416c-9bee-5b3aa05990a4)
+`Administration` → `Tools & Integrations` → `Privilege Behavior Analytics`
 
 ![image](https://github.com/joetanx/delinea-secret-server/assets/90442032/f8e44fa6-40a6-4d33-94b8-d68ab21204fa)
 
@@ -197,7 +205,7 @@ Session playback:
 
 ### 6.2. DevOps Secrets Vault
 
-![image](https://github.com/joetanx/delinea-secret-server/assets/90442032/c26f99fb-4234-460d-8a4d-28d0d6f77a11)
+`Administration` → `Tools & Integrations` → `DevOps Secrets Vault`
 
 ![image](https://github.com/joetanx/delinea-secret-server/assets/90442032/8503002e-0799-4083-833b-50f337d034e1)
 
