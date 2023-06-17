@@ -97,11 +97,11 @@ Online activation:
 
 ### 3.5. Create secret
 
-![create-secret](https://github.com/joetanx/delinea-secret-server/assets/90442032/6f0f4842-cac6-4afa-8975-159ff4fdf923)
+https://github.com/joetanx/delinea-secret-server/assets/90442032/3f02e54f-f02d-4f18-9510-5b8267953f2b
 
 ### 3.6. Change password
 
-![change-password](https://github.com/joetanx/delinea-secret-server/assets/90442032/6934e9ff-411e-4e9f-9ca3-c066c75767d4)
+https://github.com/joetanx/delinea-secret-server/assets/90442032/aadd7316-5a40-4e22-8226-4ff68679930b
 
 ## 4. Session recording
 
@@ -149,7 +149,7 @@ Minimized session notice:
 
 ![image](https://github.com/joetanx/delinea-secret-server/assets/90442032/996dfd90-25df-4747-9e75-51e998c2c695)
 
-![sesssion-terminate](https://github.com/joetanx/delinea-secret-server/assets/90442032/88cb21a3-da23-415e-86d7-d8232e75887d)
+https://github.com/joetanx/delinea-secret-server/assets/90442032/1c731d6c-0a82-4355-9714-168986a1e37a
 
 ### 4.6. View session recording
 
@@ -165,7 +165,7 @@ From secret:
 
 Session playback:
 
-![session-playback](https://github.com/joetanx/delinea-secret-server/assets/90442032/eab8117c-05db-4ff3-af2e-f5e63a1e82d2)
+https://github.com/joetanx/delinea-secret-server/assets/90442032/f2270583-6458-4c5f-bc5e-ab07dcc433c3
 
 ## 5. Folder configuration
 
